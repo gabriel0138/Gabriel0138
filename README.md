@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**gabriel0138/gabriel0138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gabriel0138/gabriel0138** é um ✨ _special_ ✨ repositorio por causa do  `README.md` (este arquivo) aparecendo como minha pagina principal do github
 
 cheio de ideias para começar e iniciar meu futuro como dev
 
