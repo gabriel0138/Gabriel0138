@@ -10,7 +10,7 @@ cheio de ideias para começar e iniciar meu futuro como dev
 - 📫 Me contate pelo email: gabriel0138@gmail.com
 - 😄 Pronomes: ele/dele
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/kS6Lf58/Snapinsta-app-307326408-616317533306819-6695734403300442127-n-1080.jpg">
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/KyPWVc3/122611368.jpg">
 
 </br>
 </br>
