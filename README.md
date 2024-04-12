@@ -38,7 +38,7 @@ cheio de ideias para começar e iniciar meu futuro como dev
 
 ## Hello, Devs!!
 
-Tenho 18 anos, moro em Itanhaém e gosto muito de hacking, programação e video-games! Sou aventureiro no universo da programação, oficialmente platinador de jogos, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 17 anos, moro em Itanhaém e gosto muito de hacking, programação e video-games! Sou aventureiro no universo da programação, oficialmente platinador de jogos, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p></p>
 
