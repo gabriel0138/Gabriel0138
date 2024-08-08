@@ -41,7 +41,6 @@ Tenho 19 anos, moro em Itanhaém e gosto muito de hacking, programação e video
 <p></p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://i.ibb.co/kS6Lf58/Snapinsta-app-307326408-616317533306819-6695734403300442127-n-1080.jpg">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
