@@ -10,8 +10,6 @@ cheio de ideias para começar e iniciar meu futuro como dev
 - 📫 Me contate pelo email: gabriel0138@gmail.com
 - 😄 Pronomes: ele/dele
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.postimg.cc/44BCz83w/IMG-0127.avif">
-
 </br>
 </br>
 
@@ -67,11 +65,11 @@ Tenho 19 anos, moro em Itanhaém e gosto muito de hacking, programação e video
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/abismo.y2k) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/abismo.y2k1) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
-<a href="https://www.instagram.com/abismo.y2k" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/abismo.y2k1" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/gabriel-dos-santos-alves-86718a252/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
